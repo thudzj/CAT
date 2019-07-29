@@ -1,4 +1,4 @@
-# BVAT (ICCV2019)
+# CAT (ICCV2019)
 Code for ["Cluster Alignment with a Teacher for Unsupervised Domain Adaptation"](https://arxiv.org/pdf/1903.09980.pdf) which is based on the official implementation of [MSTN](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network).
 
 # Requirements
