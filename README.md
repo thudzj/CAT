@@ -1,5 +1,5 @@
 # CAT (ICCV2019)
-Code for ["Cluster Alignment with a Teacher for Unsupervised Domain Adaptation"](https://arxiv.org/pdf/1903.09980.pdf) which is based on the official implementation of [MSTN](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network).
+Code for ["Cluster Alignment with a Teacher for Unsupervised Domain Adaptation"](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Cluster_Alignment_With_a_Teacher_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf) which is based on the official implementation of [MSTN](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network).
 
 # Requirements
 - python2.7
@@ -12,10 +12,11 @@ If you have any problem about this library, please create an Issue or send us an
 # Cite
 Please cite our paper if you use this code in your own work:
 ```
-@article{deng2019cluster,
-  title={Cluster Alignment with a Teacher for Unsupervised Domain Adaptation},
-  author={Deng, Zhijie and Luo, Yucen and Zhu, Jun},
-  journal={arXiv preprint arXiv:1903.09980},
-  year={2019}
+@InProceedings{Deng_2019_ICCV,
+  author = {Deng, Zhijie and Luo, Yucen and Zhu, Jun},
+  title = {Cluster Alignment With a Teacher for Unsupervised Domain Adaptation},
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+  month = {October},
+  year = {2019}
 }
 ```
